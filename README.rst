@@ -1,7 +1,7 @@
 What happens when...
 ====================
 
-This repository is an attempt to answer the age-old interview question "What
+This repository is a forked repository in an attempt to answer the age-old interview question "What
 happens when you type google.com into your browser's address box and press
 enter?"
 
@@ -38,6 +38,31 @@ popular searches from the internet as a whole. As you are typing
 "google.com" many blocks of code run and the suggestions will be refined
 with each keypress. It may even suggest "google.com" before you finish typing
 it.
+
+Also, When the 'g' key is pressed on a standard keyboard, several events and actions are triggered depending on the context and the application in focus:
+
+Keyboard Event Triggering:
+The 'g' key press event is detected by the operating system's keyboard driver. The keyboard driver translates the hardware signal into a key event.
+
+Application-Level Handling:
+If an application is in focus (e.g., a text editor, web browser, or any application that accepts text input), it receives the key event through its event handling mechanism.
+
+Text Input:
+In most cases, when the 'g' key is pressed in a text input context, the 'g' character is added to the input field or text area where the cursor is located. This allows users to type the 'g' character into the application.
+
+Shortcut or Hotkey:
+In some applications, the 'g' key might be associated with a shortcut or hotkey that triggers a specific action. For example, pressing 'g' might activate a "Go to" function, jump to the top of a page, or open a specific menu.
+
+Browser Behavior:
+In web browsers, if the 'g' key is pressed and the browser window is in focus, it might trigger specific browser behaviors. For instance, in some browsers, pressing 'g' might scroll the page to the top (similar to the "Home" key).
+
+OS-Level Actions:
+Depending on the operating system and any system-wide shortcuts, pressing 'g' in combination with certain modifier keys (e.g., 'Ctrl' or 'Command') might trigger system-level actions or shortcuts.
+
+Custom Keybindings:
+In some advanced software or applications, the 'g' key press event might be customized by the user or the application itself to perform specific actions defined by the user.
+
+The specific action triggered by pressing the 'g' key can vary widely depending on the software, context, user-defined keybindings, and the operating system being used. The response to the 'g' key press is highly configurable and customizable, allowing for a wide range of behaviors based on user preferences and application design.
 
 The "enter" key bottoms out
 ---------------------------
