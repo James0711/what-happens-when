@@ -1,7 +1,7 @@
 What happens when...
 ====================
 
-This repository is a forked repository in an attempt to answer the age-old interview question "What
+This repository is a forked repository with a little contribution in an attempt to answer the age-old interview question "What
 happens when you type google.com into your browser's address box and press
 enter?"
 
